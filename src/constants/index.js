@@ -22,24 +22,25 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: star,
-    title: "Rewards",
+    icon: send,
+    title: "Responsiveness",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Ability to use your site on multiple devices including LapTop, Tablet, Phone, etc...",
   },
   {
     id: "feature-2",
-    icon: shield,
-    title: "100% Secured",
+    icon: star,
+    title: "Rewards",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We have prepared special prizes for our loyal users! Learn more...",
+    
   },
   {
     id: "feature-3",
-    icon: send,
-    title: "Balance Transfer",
+    icon: shield,
+    title: "100% Secured",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We take proactive steps make sure your Site is secure.",
   },
 ];
 
@@ -73,18 +74,19 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Rating",
+    value: "⭐⭐⭐⭐⭐",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Users",
+    value: "1500+",
+
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Sites Sold",
+    value: "300+",
   },
 ];
 
