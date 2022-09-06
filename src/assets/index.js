@@ -3,6 +3,7 @@ import bill from "./bill.png";
 import bill1 from "./bill1.png"
 import binance from "./binance.png";
 import card from "./card.png";
+import card1 from "./card1.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.png";
@@ -32,6 +33,7 @@ export {
   bill1,
   binance,
   card,
+  card1,
   coinbase,
   dropbox,
   logo,
